@@ -1,4 +1,13 @@
-# Username availability finder on discord
+# Username Sniper
+
+# Installations
+
+Node JS
+[Node JS]([https://ada](https://nodejs.org/en))
+
+# Initialization
+
+node index.js
 
 This script was really easy and took me around 5 minutes
 When you change your username on discord it sends an request to discord "https://discord.com/api/v9/users/@me/pomelo-attempt" which returns { "taken": false } or { "taken": true }
