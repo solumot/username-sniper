@@ -13,9 +13,11 @@ This script was really easy and took me around 5 minutes
 When you change your username on discord it sends an request to discord "https://discord.com/api/v9/users/@me/pomelo-attempt" which returns { "taken": false } or { "taken": true }
 
 ## Not working
+<img width="1350" height="1077" alt="image" src="https://github.com/user-attachments/assets/c2626b8e-f35e-4f82-bbf0-79af7cdd946a" />
 <img width="451" height="138" alt="image" src="https://github.com/user-attachments/assets/91ee3426-75f3-4038-8e6f-9e2c8ad38988" />
 
 ## Working
+<img width="1350" height="1077" alt="image" src="https://github.com/user-attachments/assets/dd7dbc03-a5b3-4658-b954-85ac03e9ed3f" />
 <img width="448" height="101" alt="image" src="https://github.com/user-attachments/assets/a9ca918a-90ff-4024-9150-9cab057498e0" />
 
 # Quick note
