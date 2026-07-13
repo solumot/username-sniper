@@ -26,4 +26,7 @@ When you change your username on discord it sends an request to discord "https:/
 
 By doing this you can get an rate limit, for this you can buy **DISCORD TOKENS** and make an vector on "authorization" and place your tokens, when you get rate limit just change to another token and keep it
 
-# My first post so don't expect good thing
+My first post so don't expect good thing
+
+# RESULT
+<img width="451" height="115" alt="image" src="https://github.com/user-attachments/assets/72566503-32d3-452e-9688-68c347faa292" />
