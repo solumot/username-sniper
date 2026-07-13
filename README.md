@@ -18,8 +18,6 @@ When you change your username on discord it sends an request to discord "https:/
 ## Working
 <img width="448" height="101" alt="image" src="https://github.com/user-attachments/assets/a9ca918a-90ff-4024-9150-9cab057498e0" />
 
-I found out people selling this
-
 # Quick note
 
 By doing this you can get an rate limit, for this you can buy **DISCORD TOKENS** and make an vector on "authorization" and place your tokens, when you get rate limit just change to another token and keep it
